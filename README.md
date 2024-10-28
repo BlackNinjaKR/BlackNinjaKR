@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anik!
 
-Welcome to my GitHub! I'm currently a **first-year BTech-MTech student** with a passion for **cybersecurity, embedded systems, game development, web development, application development**, and **creative content writing**. Here, you’ll find my projects, code snippets, and experiments as I dive into the world of **technology and programming**.
+Welcome to my GitHub! I'm currently a **first-year BTech-MTech CSE student at NFSU, Guwahati** and **a first-year BS degree student in Data Science at IIT, Madras** with a passion for **cybersecurity, embedded systems, game development, web development, application development**, and **creative content writing**. Here, you’ll find my projects, code snippets, and experiments as I dive into the world of **technology and programming**.
 
 ---
 
@@ -27,7 +27,7 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or simply 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anik-dasgupta-a2a847306)
 - ✍️ [Instagram](https://instagram.com/kr.n.quills)
 - 🧑 [Personal_Instagram](https://www.instagram.com/blackninjakr/)
-
+- 👻 **Discord ID:** blackninjakr
 ---
 
 ### 🌐 Stats & Activity
