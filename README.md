@@ -32,9 +32,9 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or simply 
 
 ### 🌐 Stats & Activity
 
-![BlackNinjaKR's Stats](https://github-readme-stats.vercel.app/api?username=BlackNinjaKR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![BlackNinjaKR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackNinjaKR&theme=vue-dark&hide_border=true)
-![BlackNinjaKR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNinjaKR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![BlackNinjaKR's Stats](https://github-readme-stats.vercel.app/api?username=BlackNinjaKR&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![BlackNinjaKR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackNinjaKR&theme=tokyonight&hide_border=false)
+![BlackNinjaKR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNinjaKR&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
