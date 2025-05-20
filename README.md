@@ -11,13 +11,13 @@ Welcome to my GitHub! I'm currently a **first-year BTech-MTech CSE student at NF
 
 ---
 
-### 📂 Featured Projects
+<!---### 📂 Featured Projects
 
 - **Project V:** ONGOING! A visual novel game with a focus on storytelling and interactive gameplay.
 - **Flappy Bird (Remake):** A Unity and C# project to re-create and enhance the classic Flappy Bird game.
 - **Smart Pest Detection System:** An embedded systems project focused on real-world applications.
 
----
+--->
 
 ### 💬 Let's Connect!
 
@@ -33,8 +33,8 @@ Feel free to reach out if you’d like to collaborate, discuss ideas, or simply 
 ### 🌐 Stats & Activity
 
 ![BlackNinjaKR's Stats](https://github-readme-stats.vercel.app/api?username=BlackNinjaKR&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![BlackNinjaKR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackNinjaKR&theme=synthwave&hide_border=true)
-![BlackNinjaKR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNinjaKR&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+<!---![BlackNinjaKR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackNinjaKR&theme=synthwave&hide_border=true)
+[BlackNinjaKR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNinjaKR&theme=synthwave&show_icons=true&hide_border=true&layout=compact)--->
 
 ---
 
