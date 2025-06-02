@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Anik!
 
-Welcome to my GitHub! I'm currently a **first-year BTech-MTech CSE student at NFSU, Guwahati** and **a first-year Bachelor of Science student in Data Science at IIT, Madras** with a passion for **cybersecurity, embedded systems, game development, web development, application development**, and **creative content writing**. Here, you’ll find my projects, code snippets, and experiments as I dive into the world of **technology and programming**.
+Welcome to my GitHub! I'm currently a **BTech-MTech CSE student at NFSU, Guwahati** and a **Bachelor of Science student in Data Science at IIT, Madras** with a passion for **cybersecurity, embedded systems, game development, web development, application development**, and **creative content writing**. Here, you’ll find my projects, code snippets, and experiments as I dive into the world of **technology and programming**.
 
 ---
 
 ### 🚀 About Me
 
-- 💻 **Tech Stack:** C, Java, Javascript, C#, Python, Arduino (ino), Unity, C++, and exploring more every day.
+- 💻 **Tech Stack:** C, C++, Java, Python, Arduino (ino), Unity, C++, HTML5, CSS, Javascript, C#, and exploring more every day.
 - ✍️ **Creative Side:** I’m a poet and writer with some published work. Check out my Instagram [@kr.n.quills](https://instagram.com/kr.n.quills) for more of my writing.
 
 ---
