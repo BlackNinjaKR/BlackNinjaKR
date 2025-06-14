@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm currently a **BTech-MTech CSE student at NFSU, Guwahat
 Feel free to reach out if you’d like to collaborate, discuss ideas, or simply chat about technology and creative projects. 
 
 - 📧 **Email:** dasguptaanik123@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/anik-dasgupta-a2a847306)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anik-d-a2a847306/)
 - ✍️ [Instagram](https://instagram.com/kr.n.quills)
 - 🧑 [Personal_Instagram](https://www.instagram.com/blackninjakr/)
 - 👻 **Discord ID:** blackninjakr
